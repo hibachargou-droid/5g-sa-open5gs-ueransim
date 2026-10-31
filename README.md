@@ -7,4 +7,4 @@ NGAP/NAS sous Wireshark.
 
 ## Avancement
 - [x] Étape 1 : environnement (VM, Git)
-- [ ] Étape 2 : cœur 5G Open5GS
+- [x] Étape 2 : cœur 5G Open5GS
